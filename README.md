@@ -38,8 +38,8 @@ Unlike simple keyword matching, this bot understands the *meaning* behind your q
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/Advanced-FAQ-Chatbot.git](https://github.com/YourUsername/Advanced-FAQ-Chatbot.git)
-cd Advanced-FAQ-Chatbot
+git clone [https://github.com/eslamalsaeed72-droid/CodeAlpha_Chatbot_FAQ.git]
+cd CodeAlpha_Chatbot_FAQs
 
 ```
 

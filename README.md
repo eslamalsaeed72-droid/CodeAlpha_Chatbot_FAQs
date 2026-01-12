@@ -113,7 +113,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://ww
 <p align="center">
 <strong>Developed by Eslam Alsaeed</strong>
 </p>
-
-```
-
-```
